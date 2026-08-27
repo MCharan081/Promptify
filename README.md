@@ -8,7 +8,7 @@
 - **Edit Easily:** Change saved or previous prompts and quickly create new results. 
 - **Save & Favorite:** Save your best prompts and find them later. 
 - **Dark & Light Mode:** Choose the theme you like.
-- 
+  
 ## Technologies Used
   - **Backend:** Python, Flask, SQLite3 
   - **Frontend:** HTML, CSS, JavaScript 
